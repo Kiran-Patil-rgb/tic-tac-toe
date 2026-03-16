@@ -21,7 +21,7 @@ This is a simple Tic Tac Toe game built using HTML, CSS and JavaScript.
 ## Project Structure
 tic-tac-toe
 │
-├── index.html
+├── tic-tac-toe.html
 ├── tic-tac-toe.css
 └── tic-tac-toe.js
 
